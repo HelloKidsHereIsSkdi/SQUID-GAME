@@ -146,7 +146,7 @@ end
 if FixingScript ~= true then
 notifications:notify{
     Title = "Safety Caution",
-    Description = "I am <b><font color=\"rgb(191,45,45)\">NOT</font></b> to blame if you ever get banned! I <b><font color=\"rgb(191,45,45)\">RECOMMEND</font></b> you use this on an alt (if you're on an alt ignore this), Also when the game ends you have to rejoin |  Made by DOOMZDAY#5250",
+    Description = "I am <b><font color=\"rgb(191,45,45)\">NOT</font></b> to blame if you ever get banned! I <b><font color=\"rgb(191,45,45)\">RECOMMEND</font></b> you use this on an alt (if you're on an alt ignore this), Also when the game ends you have to rejoin  |  Made by DOOMZDAY#5250",
     Accept = {
     Text = "Continue Script",
         Callback = function()
